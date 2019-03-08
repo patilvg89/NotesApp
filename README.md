@@ -1,2 +1,2 @@
 # NotesApp-ReactNative-POC
-Notes App 
+Notes App - offline - database realm
